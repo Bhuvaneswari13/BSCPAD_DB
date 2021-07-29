@@ -3,8 +3,8 @@ import './App.css';
 //Calling Bootstrap 4.5 css
 import 'bootstrap/dist/css/bootstrap.min.css';
 import fireDB from'./firebase';
-import { data } from 'jquery';
-import { Card } from 'react-bootstrap';
+//import { data } from 'jquery';
+//import { Card } from 'react-bootstrap';
 class fourthpage extends React.Component {
   constructor(props) {
       

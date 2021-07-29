@@ -7,12 +7,12 @@ import thirdpage from './thirdpage';
 import web3 from './web3';
 import tokencontract from './tokencontract';
 import TESTToken from './TESTToken';
-import TEST from './TEST';
-import {BrowserRouter as Router , Route , Link , Switch , NavLink} from "react-router-dom";
+//import TEST from './TEST';
+import {BrowserRouter as Router , Route , Link , Switch} from "react-router-dom";
 import home from './home';
 import { Navbar } from 'react-bootstrap';
-import { Button,ButtonGroup } from 'react-bootstrap';
-import Background1 from '../src/images/logo.png'
+import { Button } from 'react-bootstrap';
+//import Background1 from '../src/images/logo.png'
 import fourthpage from './fourthpage';
 
 
