@@ -46,8 +46,8 @@ class fourthpage extends React.Component {
     integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous"/>
 
     
-      <div class="jumbotron text-center ">
-      <h1 class="head1"><b>History</b></h1>
+      <div class="text-center ">
+      <h2 class="head1"><b>History</b></h2>
       </div>
       <div className="container">   
       
