@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BSCPAD_DB/static/css/main.8d8d1c9a.chunk.css",
-    "main.js": "/BSCPAD_DB/static/js/main.ca8cfdde.chunk.js",
-    "main.js.map": "/BSCPAD_DB/static/js/main.ca8cfdde.chunk.js.map",
+    "main.js": "/BSCPAD_DB/static/js/main.45f6d462.chunk.js",
+    "main.js.map": "/BSCPAD_DB/static/js/main.45f6d462.chunk.js.map",
     "runtime-main.js": "/BSCPAD_DB/static/js/runtime-main.6cafb5f7.js",
     "runtime-main.js.map": "/BSCPAD_DB/static/js/runtime-main.6cafb5f7.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/BSCPAD_DB/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.e788ee15.chunk.js",
     "static/css/main.8d8d1c9a.chunk.css",
-    "static/js/main.ca8cfdde.chunk.js"
+    "static/js/main.45f6d462.chunk.js"
   ]
 }
