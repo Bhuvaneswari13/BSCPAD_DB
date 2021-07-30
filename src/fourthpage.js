@@ -47,7 +47,7 @@ class fourthpage extends React.Component {
 
     
       <div class="jumbotron text-center ">
-      <h3 style={{color:"black"}}>History</h3>
+      <h1 class="head1"><b>History</b></h1>
       </div>
       <div className="container">   
       
@@ -64,7 +64,7 @@ class fourthpage extends React.Component {
   <p>
     Total Supply:
   </p>
-  <h4 id ="1ts"></h4>
+  <h4 id ="1ts"> </h4>
   <div class="row">
     <div class="col">
       <h6>Min.Allocation<br/>1</h6>
