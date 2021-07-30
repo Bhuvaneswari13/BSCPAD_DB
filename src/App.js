@@ -79,19 +79,19 @@ window.ethereum.enable();
           <Navbar.Brand href="#home">
       
         
-        <Link class="navlink"  exact to="/h">
+        <Link class="navlink"  exact to="/pages/h">
 
   Home
 
 </Link>
       
-      <Link class="navlink"  exact to="/s">
+      <Link class="navlink"  exact to="/pages/s">
 Join Pool{' '}
             </Link>
             {/*<Link class="navlink"  exact to="/t">
 History{' '}
             </Link>*/}
-            <Link class="navlink"  exact to="/t1">
+            <Link class="navlink"  exact to="/pages/t1">
       History{' '}
             </Link>
     </Navbar.Brand>
@@ -110,10 +110,10 @@ History{' '}
       </Navbar.Collapse>
       </Navbar>
           <Switch>
-    <Route exact path='/h' component={home}/>
-    <Route exact path='/t' component={thirdpage}/> 
-    <Route exact path='/t1' component={fourthpage}/>
-      <Route  exact path='/s' component={secondpage}/>
+    <Route exact path='/pages/h' component={home}/>
+    <Route exact path='/pages/t' component={thirdpage}/> 
+    <Route exact path='/pages/t1' component={fourthpage}/>
+      <Route  exact path='/pages/s' component={secondpage}/>
     </Switch>
     
   </Router>
