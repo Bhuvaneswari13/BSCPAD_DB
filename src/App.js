@@ -88,11 +88,11 @@ window.ethereum.enable();
       <Link class="navlink"  exact to="/s">
 Join Pool{' '}
             </Link>
-            <Link class="navlink"  exact to="/t">
+            {/*<Link class="navlink"  exact to="/t">
 History{' '}
-            </Link>
+            </Link>*/}
             <Link class="navlink"  exact to="/t1">
-      History1{' '}
+      History{' '}
             </Link>
     </Navbar.Brand>
     <Navbar.Collapse className="justify-content-end">
