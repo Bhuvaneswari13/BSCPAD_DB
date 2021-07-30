@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BSCPAD_DB/static/css/main.8d8d1c9a.chunk.css",
+    "main.js": "/BSCPAD_DB/static/js/main.ca8cfdde.chunk.js",
+    "main.js.map": "/BSCPAD_DB/static/js/main.ca8cfdde.chunk.js.map",
+    "runtime-main.js": "/BSCPAD_DB/static/js/runtime-main.6cafb5f7.js",
+    "runtime-main.js.map": "/BSCPAD_DB/static/js/runtime-main.6cafb5f7.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/BSCPAD_DB/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e788ee15.chunk.js": "/BSCPAD_DB/static/js/2.e788ee15.chunk.js",
+    "static/js/2.e788ee15.chunk.js.map": "/BSCPAD_DB/static/js/2.e788ee15.chunk.js.map",
+    "static/js/3.fafa24e7.chunk.js": "/BSCPAD_DB/static/js/3.fafa24e7.chunk.js",
+    "static/js/3.fafa24e7.chunk.js.map": "/BSCPAD_DB/static/js/3.fafa24e7.chunk.js.map",
+    "index.html": "/BSCPAD_DB/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/BSCPAD_DB/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8d8d1c9a.chunk.css.map": "/BSCPAD_DB/static/css/main.8d8d1c9a.chunk.css.map",
+    "static/js/2.e788ee15.chunk.js.LICENSE.txt": "/BSCPAD_DB/static/js/2.e788ee15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cafb5f7.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e788ee15.chunk.js",
+    "static/css/main.8d8d1c9a.chunk.css",
+    "static/js/main.ca8cfdde.chunk.js"
+  ]
+}
