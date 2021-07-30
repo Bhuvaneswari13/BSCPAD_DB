@@ -98,7 +98,7 @@ History{' '}
     <Navbar.Collapse className="justify-content-end">
     <Button  onClick={connect} id="cc" variant="flat" style={{ backgroundColor: "#fa3455", color: "white"}}> Connect Wallet</Button>
 
-<Link exact to="/h">
+<Link exact to="/pages/h">
 <Button variant="flat" style={{ backgroundColor: "#fa3455", color: "white"}}> {this.state.accounts}</Button>
 <label class="mr-3 mt-2" style={{color:"white"}}>
 
