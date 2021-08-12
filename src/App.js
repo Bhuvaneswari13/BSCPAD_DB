@@ -46,8 +46,7 @@ class App extends Component {
 
     }
 
-    //const price=await testtoken.methods.getDollarPrice().call();
-  
+    
     this.setState({totalsupply,balance,name,symbol,decimal,accounts});
 
     
