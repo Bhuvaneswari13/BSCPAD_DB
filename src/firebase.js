@@ -8,7 +8,7 @@ import firebase from "firebase";
     storageBucket: "react-bsc-86577.appspot.com",
     messagingSenderId: "387531336164",
     appId: "1:387531336164:web:b5f1bf37a9493b70adbff1",
-    measurementId: "G-C7NGE0R5EZ"
+    measurementId: "G-C7NGE0R5EZ
   };*/
 const firebaseConfig = {
   apiKey: "AIzaSyAPqq2SL1Jf9ojbpQilxMTPqrm8cZwJhag",
